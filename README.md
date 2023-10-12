@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'm Mohammed<br>A Web Developer From Jordan.
 
+## Free Palestinian 🇵🇸
+## I Stand with Gaza 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-b-hassan) 
