@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm Mohammed<br>A Web Developer From Jordan.
-Free Palestinian 🇵🇸 
+I'm Mohammed<br>A Web Developer From Jordan.<br>
+Free Palestinian 🇵🇸 <br>
 I Stand with Gaza 🇵🇸 
 
 
